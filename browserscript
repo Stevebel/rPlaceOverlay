@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         r/Place RubberRoss Overlay
+// @name         r/Place RubberRoss Newgrounds Overlay
 // @namespace    https://github.com/stevebel/rPlaceOverlay
 // @version      1.0.0
-// @description  R/Place Overlay for Ross
+// @description  R/Place Newgrounds Overlay by RubberRoss community
 // @author       stevebel
 // @match        https://hot-potato.reddit.com/embed*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
